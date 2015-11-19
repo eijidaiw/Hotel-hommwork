@@ -1,0 +1,10 @@
+C:\Users\STD-PC\documents\visual studio 2013\Projects\HotelLibrary\HotelLibrary\bin\Debug\HotelLibrary.dll
+C:\Users\STD-PC\documents\visual studio 2013\Projects\HotelLibrary\HotelLibrary\bin\Debug\HotelLibrary.pdb
+C:\Users\STD-PC\documents\visual studio 2013\Projects\HotelLibrary\HotelLibrary\obj\Debug\HotelLibrary.csprojResolveAssemblyReference.cache
+C:\Users\STD-PC\documents\visual studio 2013\Projects\HotelLibrary\HotelLibrary\obj\Debug\HotelLibrary.dll
+C:\Users\STD-PC\documents\visual studio 2013\Projects\HotelLibrary\HotelLibrary\obj\Debug\HotelLibrary.pdb
+C:\Users\EijiD\Documents\Visual Studio 2013\Projects\HotelLibrary\HotelLibrary\bin\Debug\HotelLibrary.dll
+C:\Users\EijiD\Documents\Visual Studio 2013\Projects\HotelLibrary\HotelLibrary\bin\Debug\HotelLibrary.pdb
+C:\Users\EijiD\Documents\Visual Studio 2013\Projects\HotelLibrary\HotelLibrary\obj\Debug\HotelLibrary.csprojResolveAssemblyReference.cache
+C:\Users\EijiD\Documents\Visual Studio 2013\Projects\HotelLibrary\HotelLibrary\obj\Debug\HotelLibrary.dll
+C:\Users\EijiD\Documents\Visual Studio 2013\Projects\HotelLibrary\HotelLibrary\obj\Debug\HotelLibrary.pdb

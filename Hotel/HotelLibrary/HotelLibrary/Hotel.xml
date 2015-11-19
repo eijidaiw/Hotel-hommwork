@@ -1,0 +1,25 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<Hotels>
+  <Hotels id="001">
+    <RoomType type ="single">
+      <Allotment>10</Allotment>
+      <Price>300</Price>
+    </RoomType>
+    <RoomType type ="double">
+      <Allotment>5</Allotment>
+      <Price>600</Price>
+    </RoomType>
+    <Imformation>Eiji Hotel</Imformation>
+  </Hotels>
+  <Hotel id ="002">
+    <Roomtype type ="sweet">
+      <Allotment>2</Allotment>
+      <Price>1000</Price>
+    </Roomtype>
+    <Roomtype type ="family">
+      <Allotment>2</Allotment>
+      <Price>1500</Price>
+    </Roomtype>
+    <Imformation>Ben Hotel</Imformation>
+  </Hotel>
+</Hotels>
